@@ -8,7 +8,7 @@ Note: this tool right now has no updater. You'll need to update it manually unti
 Note: this tool doesn't support data fetching right now.
 
 # Downloading
-To get started, download this code and paste it into main website folder, after that structure should looks like:
+To get started, download this code and paste it into folder named builder in main website folder, after that structure should looks like:
 ```
 admin/
 configuration/
